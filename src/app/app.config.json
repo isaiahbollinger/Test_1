@@ -1,0 +1,14 @@
+{
+  "appname": "Test_1",
+  "scope": "DevCenterImpersonate",
+  "clientid": "6355273D-C52D-4720-9E55-A195FF60ACC0",
+  "buyerid": "trellis",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
